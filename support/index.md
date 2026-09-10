@@ -4,7 +4,7 @@ If you need help with BillsHQ, you can reach out using the information below.
 
 ## Contact
 For questions, feedback, or assistance, please email:  
-**support.billshq@icloud.com**
+**[Email Support](mailto: support.billshq@icloud.com)**
 
 ## Additional Information
 Privacy Policy:  
