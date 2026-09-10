@@ -44,8 +44,8 @@ BillsHQ does not collect or transmit personal data from any user, including chil
 
 ## 7. Changes to This Policy
 If this Privacy Policy is updated, the latest version will be available at:
-https://wjrdigital.github.io/billshq/privacy
+<https://wjrdigital.github.io/billshq/privacy>
 
 ## 8. Support & Contact
 For support or questions regarding this Privacy Policy, visit:
-https://wjrdigital.github.io/billshq/support
+<https://wjrdigital.github.io/billshq/support>
