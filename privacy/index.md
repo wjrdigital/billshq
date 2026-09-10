@@ -43,9 +43,8 @@ BillsHQ relies on Apple’s secure iOS environment. All data is stored using sys
 BillsHQ does not collect or transmit personal data from any user, including children under 13, in compliance with standard privacy regulations such as COPPA. The app is not directed toward children.
 
 ## 7. Changes to This Policy
-If this Privacy Policy is updated, the latest version will be available at:
-<https://wjrdigital.github.io/billshq/privacy>
+If this Privacy Policy is updated, the latest version will be available [here.](https://wjrdigital.github.io/billshq/privacy)
 
 ## 8. Support & Contact
 For support or questions regarding this Privacy Policy, visit:
-<https://wjrdigital.github.io/billshq/support>
+[BillsHQ Support](https://wjrdigital.github.io/billshq/support)
