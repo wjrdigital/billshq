@@ -8,4 +8,4 @@ For questions, feedback, or assistance, please email:
 
 ## Additional Information
 Privacy Policy:  
-https://wjrdigital.github.io/billshq/privacy
+<https://wjrdigital.github.io/billshq/privacy>
